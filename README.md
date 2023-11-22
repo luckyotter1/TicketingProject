@@ -49,13 +49,22 @@ Developement
 
 ### 로그인페이지
 
-![image](https://github.com/team5-ticketingProject/project/assets/139444462/ac2c3284-6c42-4809-9b30-4d4c62971931)
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/274bd12b-fdb4-4e3c-9b79-d005dc805dd0)
+
 ### 마이페이지
 
-![image](https://github.com/team5-ticketingProject/project/assets/139444462/6f4df6db-e5a7-4438-bd15-27d571fa1524)
+![image](https://github.com/team5-ticketingProject/project/assets/139444552/c8460cb4-521d-4551-bd02-b1a493f6f3ec)
 
+### 예매페이지
 
+![image](https://github.com/team5-ticketingProject/project/assets/139444552/0ec58816-4619-4ed2-a03b-f278e27075f2)
+
+### 어드민페이지
+## 공지사항
+![image](https://github.com/team5-ticketingProject/project/assets/139444552/8eace09a-aa96-416e-882d-1396a788cbcf)
+
+## 할인율 조정
+![image](https://github.com/team5-ticketingProject/project/assets/139444552/3c514e28-13ef-4ef4-ba7a-72aacc95b23b)
 
 
 ## 주요기능
@@ -63,6 +72,8 @@ Developement
 - 지역별로 예매 가능(지정한 지역으로 검색 가능)
 - 날짜별로 예매 가능
 - 결제시 기기인증 및 금융사별 할인 시스템
+- 어드민페이지에서 공지사항, FAQ 수정 및 삭제
+- 할인율 조정 가능
 
 ## DATABASE
 
