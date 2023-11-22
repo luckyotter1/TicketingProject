@@ -60,10 +60,10 @@ Developement
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/0ec58816-4619-4ed2-a03b-f278e27075f2)
 
 ### 어드민페이지
-## 공지사항
+#### 공지사항
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/8eace09a-aa96-416e-882d-1396a788cbcf)
 
-## 할인율 조정
+#### 할인율 조정
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/3c514e28-13ef-4ef4-ba7a-72aacc95b23b)
 
 
