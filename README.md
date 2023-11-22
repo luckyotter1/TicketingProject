@@ -50,7 +50,7 @@ Developement
 ### 로그인페이지
 
 ![image](https://github.com/team5-ticketingProject/project/assets/139444462/ac2c3284-6c42-4809-9b30-4d4c62971931)
-
+![image](https://github.com/team5-ticketingProject/project/assets/139444552/274bd12b-fdb4-4e3c-9b79-d005dc805dd0)
 ### 마이페이지
 
 ![image](https://github.com/team5-ticketingProject/project/assets/139444462/6f4df6db-e5a7-4438-bd15-27d571fa1524)
