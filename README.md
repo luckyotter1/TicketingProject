@@ -4,12 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## PROJECT 소개
 
-![image](https://github.com/team5-ticketingProject/project/assets/139444462/caecc10b-acfe-4db4-98fa-8ffb2bf919bd)
-
-
-![image](https://github.com/team5-ticketingProject/project/assets/139444462/9f3aa17a-c59f-4156-92d4-dcc46c03b8a9)
-
-** 위 이미지는 이번 프로젝트에서 구현해야될 기능 목록
 
 PROJECT TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
