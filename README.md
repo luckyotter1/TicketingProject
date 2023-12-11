@@ -52,6 +52,18 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 메인 화면 좌측에 있는 지역별, 날짜별 예매 버튼을 통하여 원하는 지역에서 원하는 날짜의 공연을 손쉽게 확인할 수 있습니다.
 
+- 예매 페이지
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/745cab3d-848f-464e-9bda-daad62bac04e)
+
+공연 정보를 확인 후 상영 중인 항목을 클릭하면 예매 페이지가 나오며 원하는 날짜, 시간, 인원 수, 좌석, 원하는 은행사 할인을
+선택할 수 있습니다.
+
+- mac address 수집
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/51ec5f36-49eb-4bb7-803b-c5e3fd0df1ee)
+
+최초 결제 시 mac address 수집에 동의하여야 합니다.
 
 ### 어드민페이지
 - 공지사항, FAQ
