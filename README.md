@@ -11,14 +11,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 또한 관리자가 페이지를 관리함에 용이하도록 관리자계정으로 로그인 시, 관리자 페이지로 이동되어<br/>
 데이터베이스와 연결되어 있는 회원관리, 공지사항, FAQ, 할인율 조정을 손쉽게 확인 및 수정할 수 있도록 하였습니다.<br/>
 
+
 TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 최종 프로젝트 기간 : 10/4 ~ 11/9
 
 ## Stacks
 ---
-
-
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-1572B6?style=for-the-badge&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=PostCSS&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">  
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> <img src="https://img.shields.io/badge/MATERIAL UI-1572B6?style=for-the-badge&logo=mui&logoColor=white"> 
