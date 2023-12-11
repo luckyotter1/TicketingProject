@@ -56,7 +56,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/745cab3d-848f-464e-9bda-daad62bac04e)
 
-공연 정보를 확인 후 상영 중인 항목을 클릭하면 예매 페이지가 나오며 
+공연 정보를 확인 후 상영 중인 항목을 클릭하면 예매 페이지가 나오며<br/>
 원하는 날짜, 시간, 인원 수, 좌석, 원하는 은행사 할인을 선택할 수 있습니다.
 
 - mac address 수집
