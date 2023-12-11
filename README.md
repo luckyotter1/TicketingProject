@@ -23,12 +23,12 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ### 메인페이지
 
-![image](https://github.com/team5-ticketingProject/project/assets/66791115/c5d37c2d-165c-41af-9040-22d41bd3b148)
-
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/6163491f-1c55-47de-83a8-a3067033d34f)
 
 ### 로그인페이지
 
-![image](https://github.com/team5-ticketingProject/project/assets/139444552/274bd12b-fdb4-4e3c-9b79-d005dc805dd0)
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9fa83348-0693-402c-bef0-2b39ba39e4e9)
+
 
 ### 회원가입페이지
 
