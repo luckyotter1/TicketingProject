@@ -21,9 +21,7 @@ TEAM : 고승렬, 손승광, 장우영, 장해민, 최예슬
 
 최종 프로젝트 기간 : 10/4 ~ 11/9
 
-## Installation
-
-윈도우:
+## Getting Started
 
 ```sh
 npm i
