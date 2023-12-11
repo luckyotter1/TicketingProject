@@ -61,6 +61,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/745cab3d-848f-464e-9bda-daad62bac04e)
 
 공연 정보를 확인 후 상영 중인 항목을 클릭하면 예매 페이지가 나오며 원하는 날짜, 시간, 인원 수, 좌석, 원하는 은행사 할인을 선택할 수 있습니다.
+위 은행사 할인은 뒤에 나올 관리자 페이지의 할인율 조정 항목에서 10%, 20%, 30%의 수치로 수정 가능합니다.
 
 - mac address 수집
 
@@ -69,12 +70,17 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 최초 결제 시 mac address 수집에 동의하여야 합니다.
 <hr/>
 
-### 어드민페이지
+### 관리자 페이지
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/813948e5-3922-4ac2-8cf9-04b8eeabf19d)
 
 admin 계정으로 로그인 시 보게 되는 화면입니다.
 
+- 회원관리
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/d59869b1-3611-4e1d-b14a-106c62d6365a)
+
+현재까지 가입되어 있는 회원의 ID, 전화번호, 이메일을 보여주며 등급은 일반회원은 1, 관리자는 0으로 지정되어 있습니다.
 - 공지사항, FAQ
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/8eace09a-aa96-416e-882d-1396a788cbcf)
 
