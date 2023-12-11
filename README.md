@@ -25,6 +25,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/6163491f-1c55-47de-83a8-a3067033d34f)
 
+
 ### 로그인페이지
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9fa83348-0693-402c-bef0-2b39ba39e4e9)
@@ -34,16 +35,19 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/e20e31bc-0cbe-4689-9f14-ef8920b97d74)
 
+
 ### 마이페이지
 
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/c8460cb4-521d-4551-bd02-b1a493f6f3ec)
+
 
 ### 예매페이지
 
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/0ec58816-4619-4ed2-a03b-f278e27075f2)
 
+
 ### 어드민페이지
-- 공지사항
+- 공지사항, FAQ
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/8eace09a-aa96-416e-882d-1396a788cbcf)
 
 - 할인율 조정
