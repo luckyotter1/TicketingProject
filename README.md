@@ -44,6 +44,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/3ab40036-f729-4396-9651-b5fe54c7d55c)
 
 회원가입 시 데이터베이스에 회원 정보가 추가되고 이를 통하여 로그인이 가능해집니다.
+<hr/>
 
 - 지역별
 
@@ -54,7 +55,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/1a8a0554-798d-48b5-ac19-4c99e24aa6a8)
 
 메인 화면 좌측에 있는 지역별, 날짜별 예매 버튼을 통하여 원하는 지역에서 원하는 날짜의 공연을 손쉽게 확인할 수 있습니다.
-
+<hr/>
 - 예매 페이지
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/745cab3d-848f-464e-9bda-daad62bac04e)
@@ -66,6 +67,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/51ec5f36-49eb-4bb7-803b-c5e3fd0df1ee)
 
 최초 결제 시 mac address 수집에 동의하여야 합니다.
+<hr/>
 
 ### 어드민페이지
 
