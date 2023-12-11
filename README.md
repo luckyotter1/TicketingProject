@@ -4,24 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## PROJECT 소개
 
+평소 자주 접해보았던 티켓 구매와 금융 데이터를 접목하여 
+구현을 한다면 소비자와 기업에게 이익을 가져다주고,
+구매 과정에서 편리함을 제공할 것 같다는 판단과 구현 과정
+에서 기초적인 프론트엔드 학습에 도움이 될 것 같아서 
+프로젝트로 선정하게 되었습니다.
 
-PROJECT TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
+TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 최종 프로젝트 기간 : 10/4 ~ 11/9
 
-## PROJECT Guide
-
-Requirements
-
-for building and running the application you need:
-
-- <span style="color:blue">Node.js v18.17.1</span>
-- <span style="color:blue">Npm  9.6.7</span>
-- <span style="color:blue">Mysql 8.0.34.</span>
-
 ## Stacks
 ---
-Environment
+
 
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-1572B6?style=for-the-badge&logo=visualstudio&logoColor=white">
