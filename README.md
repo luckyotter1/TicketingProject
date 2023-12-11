@@ -42,6 +42,11 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/e20e31bc-0cbe-4689-9f14-ef8920b97d74)
 
+- 가입 성공 시
+- ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9cf69b45-7198-4fb3-bdca-66508587c8f2)
+- db에 추가된 'readme' 회원정보
+- ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/3ab40036-f729-4396-9651-b5fe54c7d55c)
+
 회원가입 시 데이터베이스에 회원 정보가 추가되고 이를 통하여 로그인이 가능해집니다.
 ### 마이페이지
 
