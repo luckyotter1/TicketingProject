@@ -30,6 +30,8 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/274bd12b-fdb4-4e3c-9b79-d005dc805dd0)
 
+### 회원가입페이지
+
 ### 마이페이지
 
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/c8460cb4-521d-4551-bd02-b1a493f6f3ec)
