@@ -9,6 +9,13 @@
 또한 관리자가 페이지를 관리함에 용이하도록 관리자계정으로 로그인 시, 관리자 페이지로 이동되어<br/>
 데이터베이스와 연결되어 있는 회원관리, 공지사항, FAQ, 할인율 조정을 손쉽게 확인 및 수정할 수 있도록 하였습니다.<br/><br/>
 
+## 주요기능
+
+- 지역별, 날짜별로 예매 가능합니다.
+- 결제시 기기인증 및 은행사별 할인 시스템
+- 관리자 페이지에서 회원 정보별 검색이 가능합니다.
+- 공지사항, FAQ 수정 및 삭제가 가능합니다.
+- 은행사별 할인율 조정이 가능합니다.
 
 TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
@@ -73,7 +80,7 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ### 관리자 페이지
 
-![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/813948e5-3922-4ac2-8cf9-04b8eeabf19d)
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/2f6ebb36-90e9-4103-a562-abbc58298459)
 
 admin 계정으로 로그인 시 보게 되는 화면입니다.
 
@@ -94,11 +101,11 @@ admin 계정으로 로그인 시 보게 되는 화면입니다.
 
 공지사항은 작성, 수정, 삭제가 가능하고 FAQ는 작성과 삭제만이 가능합니다. 위 기능들은 데이터베이스와 연결되어 실시간으로 DB와 메인 페이지에 반영됩니다.
 
-- 공지사항 작성
+- 공지사항 추가작성
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/7c50cc17-aaa6-4085-94f9-b364451b2d56)
 
--DB와 메인페이지에 추가된 모습
+- DB와 메인페이지에 추가된 모습
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/eef4f873-2bb3-40eb-865a-bf1a0fc2829a)
 
@@ -106,16 +113,12 @@ admin 계정으로 로그인 시 보게 되는 화면입니다.
 <hr/>
 
 - 할인율 조정
-![image](https://github.com/team5-ticketingProject/project/assets/139444552/3c514e28-13ef-4ef4-ba7a-72aacc95b23b)
 
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/38bf9070-0a89-441b-8264-ea20335460f0)
 
-## 주요기능
+위에서 작성한대로 수치 수정 시, 실제 결제 페이지에 반영됩니다. 다음은 하나은행 할인율을 30%로 수정한 모습입니다.
 
-- 지역별로 예매 가능(지정한 지역으로 검색 가능)
-- 날짜별로 예매 가능
-- 결제시 기기인증 및 금융사별 할인 시스템
-- 어드민페이지에서 공지사항, FAQ 수정 및 삭제
-- 할인율 조정 가능
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/246a8091-a5c8-4f9d-b28e-f76bfecc485f)
 
 ## DATABASE
 
