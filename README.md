@@ -1,7 +1,5 @@
 # MultiCampus PROJECT(금융데이터 기반 티켓 할인 구매 시스템)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## PROJECT 소개
 
 티켓 구매와 금융 데이터를 접목하여 구매 시 카드사별 할인 혜택을 제공하고,<br/>
