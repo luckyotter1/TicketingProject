@@ -25,7 +25,11 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/6163491f-1c55-47de-83a8-a3067033d34f)
 
+첫 접속시 혹은 일반 회원으로 로그인 시 보게 되는 화면입니다. 
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/ac8213bc-021e-4f14-85d0-c68aa1d9163f)
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/1a8a0554-798d-48b5-ac19-4c99e24aa6a8)
 
+메인 화면 좌측에 있는 지역별, 날짜별 예매 버튼을 통하여 원하는 지역에서 원하는 날짜의 공연을 손쉽게 확인할 수 있습니다.
 ### 로그인페이지
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9fa83348-0693-402c-bef0-2b39ba39e4e9)
