@@ -25,7 +25,8 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/6163491f-1c55-47de-83a8-a3067033d34f)
 
-첫 접속시 혹은 일반 회원으로 로그인 시 보게 되는 화면입니다.
+첫 접속시 혹은 일반 회원으로 로그인 시 보게 되는 화면입니다.<br/>
+
 - 지역별
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/ac8213bc-021e-4f14-85d0-c68aa1d9163f)<br/>
 - 날짜별
