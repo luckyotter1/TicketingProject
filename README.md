@@ -27,35 +27,30 @@ TEAM : 고승렬, 손승광, 장우영, 최예슬, 장해민
 
 첫 접속시 혹은 일반 회원으로 로그인 시 보게 되는 화면입니다.<br/>
 
-- 지역별
-![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/ac8213bc-021e-4f14-85d0-c68aa1d9163f)<br/>
-- 날짜별
-![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/1a8a0554-798d-48b5-ac19-4c99e24aa6a8)
-
-메인 화면 좌측에 있는 지역별, 날짜별 예매 버튼을 통하여 원하는 지역에서 원하는 날짜의 공연을 손쉽게 확인할 수 있습니다.
-
 - 로그인 페이지
 
-![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9fa83348-0693-402c-bef0-2b39ba39e4e9)
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/c7586c12-339f-476b-aee8-fba9b0c2f98c)
 
 - 회원가입페이지
 
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/e20e31bc-0cbe-4689-9f14-ef8920b97d74)
 
 - 가입 성공 시
+
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9cf69b45-7198-4fb3-bdca-66508587c8f2)
+
 - db에 추가된 'readme' 회원정보
+
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/3ab40036-f729-4396-9651-b5fe54c7d55c)
 
 회원가입 시 데이터베이스에 회원 정보가 추가되고 이를 통하여 로그인이 가능해집니다.
-### 마이페이지
 
-![image](https://github.com/team5-ticketingProject/project/assets/139444552/c8460cb4-521d-4551-bd02-b1a493f6f3ec)
+- 지역별
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/ac8213bc-021e-4f14-85d0-c68aa1d9163f)<br/>
+- 날짜별
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/1a8a0554-798d-48b5-ac19-4c99e24aa6a8)
 
-
-### 예매페이지
-
-![image](https://github.com/team5-ticketingProject/project/assets/139444552/0ec58816-4619-4ed2-a03b-f278e27075f2)
+메인 화면 좌측에 있는 지역별, 날짜별 예매 버튼을 통하여 원하는 지역에서 원하는 날짜의 공연을 손쉽게 확인할 수 있습니다.
 
 
 ### 어드민페이지
