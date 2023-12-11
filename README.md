@@ -82,8 +82,28 @@ admin 계정으로 로그인 시 보게 되는 화면입니다.
 ![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/d59869b1-3611-4e1d-b14a-106c62d6365a)
 
 현재까지 가입되어 있는 회원의 ID, 전화번호, 이메일을 보여주며 등급은 일반회원은 1, 관리자는 0으로 지정되어 있습니다.
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/d0722ff4-0b6d-4d18-bfa7-92c395becad1)
+
+아래 검색박스를 통하여 항목 별로 검색이 가능하며 위는 전화 번호 1111을 검색한 결과입니다.
+<hr/>
+
 - 공지사항, FAQ
-![image](https://github.com/team5-ticketingProject/project/assets/139444552/8eace09a-aa96-416e-882d-1396a788cbcf)
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/f16c4a22-dc2c-4387-bb5c-2f4105f7b125)
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/9008c7b1-a8b8-419d-8b5d-430c47418620)
+
+공지사항은 작성, 수정, 삭제가 가능하고 FAQ는 작성과 삭제만이 가능합니다. 위 기능들은 데이터베이스와 연결되어 실시간으로 DB와 메인 페이지에 반영됩니다.
+
+- 공지사항 작성
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/7c50cc17-aaa6-4085-94f9-b364451b2d56)
+
+-DB와 메인페이지에 추가된 모습
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/eef4f873-2bb3-40eb-865a-bf1a0fc2829a)
+
+![image](https://github.com/luckyotter1/TicketingProject/assets/139444552/087ee7a6-11a3-42c5-bf7a-129956fb98ee)
+<hr/>
 
 - 할인율 조정
 ![image](https://github.com/team5-ticketingProject/project/assets/139444552/3c514e28-13ef-4ef4-ba7a-72aacc95b23b)
